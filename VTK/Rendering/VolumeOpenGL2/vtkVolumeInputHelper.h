@@ -31,6 +31,7 @@
 #define vtkVolumeInputHelper_h
 #ifndef __VTK_WRAP__
 #include <map>
+#include <string> // used for ivar
 
 #include "vtkSmartPointer.h"                 // For SmartPointer
 #include "vtkTimeStamp.h"                    // For TimeStamp
