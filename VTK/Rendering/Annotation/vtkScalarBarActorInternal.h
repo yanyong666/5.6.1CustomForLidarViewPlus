@@ -8,6 +8,7 @@
 
 #include <map>
 #include <vector>
+#include <string>
 
 class vtkActor2D;
 class vtkCellArray;

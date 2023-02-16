@@ -36,6 +36,7 @@
 
 #include "vtkRenderingAnnotationModule.h" // For export macro
 #include "vtkActor2D.h"
+#include <string>
 
 class vtkAlgorithmOutput;
 class vtkAxisActor2D;
