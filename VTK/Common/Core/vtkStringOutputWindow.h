@@ -27,6 +27,7 @@
 #include "vtkCommonCoreModule.h" // For export macro
 #include "vtkOutputWindow.h"
 #include <sstream>  // for ivar
+#include <string>  // for ivar
 
 class VTKCOMMONCORE_EXPORT vtkStringOutputWindow : public vtkOutputWindow
 {

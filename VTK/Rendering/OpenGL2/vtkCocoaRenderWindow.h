@@ -45,6 +45,7 @@ PURPOSE.  See the above copyright notice for more information.
 #include "vtkRenderingOpenGL2Module.h" // For export macro
 #include <stack> // for ivar
 #include "vtkOpenGLRenderWindow.h"
+#include <string>  // for ivar
 
 class VTKRENDERINGOPENGL2_EXPORT vtkCocoaRenderWindow : public vtkOpenGLRenderWindow
 {

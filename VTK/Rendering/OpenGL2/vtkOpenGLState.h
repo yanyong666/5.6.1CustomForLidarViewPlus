@@ -61,6 +61,7 @@
 
 #include "vtkRenderingOpenGL2Module.h" // For export macro
 #include <array>      // for ivar
+#include <string>  // for ivar
 
 class vtkOpenGLRenderWindow;
 

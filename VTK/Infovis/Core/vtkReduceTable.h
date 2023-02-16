@@ -42,6 +42,7 @@
 #include <map>                   // For ivar
 #include <set>                   // For ivar
 #include <vector>                // For ivar
+#include <string>  // for ivar
 
 class vtkVariant;
 
