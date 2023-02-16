@@ -44,6 +44,7 @@
 
 #include "vtkMath.h"
 #include <chrono>
+#include <string> //for iars
 
 namespace {
 class MoveRotateCommand : public vtkCommand
